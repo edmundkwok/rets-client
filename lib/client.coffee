@@ -33,6 +33,7 @@ class Client
     @headers =
       'User-Agent': "Node-Rets/1.0"
       'RETS-Version': @settings.version || 'RETS/1.7.2'
+      'Accept': 'image/jpeg'
 
     if @settings.userAgent
       # use specified user agent
