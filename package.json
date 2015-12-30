@@ -7,16 +7,14 @@
     "bluebird": "^2.9.25",
     "coffee-script": "^1.8.0",
     "crypto": "0.0.3",
+    "debug": "^2.2.0",
     "formidable": "~1.0.15",
     "node-expat": "^2.3.10",
     "request": "^2.55.0",
+    "request-debug": "^0.2.0",
     "stream-buffers": "~0.2.5",
     "through2": "^2.0.0",
     "tough-cookie": "^0.13.0"
-  },
-  "devDependencies": {
-    "debug": "^2.2.0",
-    "request-debug": "^0.2.0"
   },
   "directories": {
     "lib": "./lib"
